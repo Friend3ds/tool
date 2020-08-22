@@ -114,7 +114,6 @@ logo_plus = green+logo2+white
 print (logo_plus)
 
 print (" ")
-print (yellow + "please login your account :)")
 print (" ")
 print (cyan + "{1}Facebook hack")
 print (" " + blue)
